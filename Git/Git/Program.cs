@@ -7,7 +7,7 @@ namespace Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadLine(); // esto es una prueba
+            Console.ReadKey(); // esto es una prueba
         }
     }
 }
